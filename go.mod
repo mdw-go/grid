@@ -1,5 +1,5 @@
-module github.com/mdwhatcott/advent-of-code/go/lib/grid
+module github.com/mdwhatcott/grid
 
-go 1.20
+go 1.21
 
 require github.com/mdwhatcott/testing v1.0.0
